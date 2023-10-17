@@ -1,39 +1,24 @@
-# chatman
+## live chat web app using elixir lang
 
-chatman is a real-time chat application made with elixir (phoenix framework) programming language
+###
 
-## Installation
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elixir/elixir-original.svg" height="200" alt="elixir logo"  />
+</div>
 
-- to clone the repo
+###
 
-```bash
-git clone https://github.com/amodotomi/chatman
+## installation
+
+```sh
+git clone https://github.com/kenjitheman/chatman
 ```
 
-## Usage
-- to get all dependencies
-```
-mix deps.get
-```
-- to run phoenix app:
+## contributing
 
-  Start your Phoenix app with:
-```
-mix phx.server
-```
-- you can also run your app inside IEx (Interactive Elixir) as:
-```
-iex -S mix phx.server
-```
+- pull requests are welcome, for major changes, please open an issue first to
+  discuss what you would like to change
 
-## that's all! feel free to use! ^_^
-## Contributing
+## license
 
-- Pull requests are welcome. For major changes, please open an issue first
-to discuss what you would like to change.
-
-- Please make sure to update tests as appropriate.
-
-## License
-
-- [GNU General Public License v3.0](https://choosealicense.com/licenses/gpl-3.0/)
+- [MIT](https://choosealicense.com/licenses/mit/)
