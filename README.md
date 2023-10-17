@@ -1,12 +1,8 @@
 ## live chat web app using elixir lang
 
-###
-
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elixir/elixir-original.svg" height="200" alt="elixir logo"  />
 </div>
-
-###
 
 ## installation
 
